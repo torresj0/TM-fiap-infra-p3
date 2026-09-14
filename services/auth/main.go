@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
-    fmt.Println("auth service started")
+	fmt.Println("auth service started")
 }
+
+
