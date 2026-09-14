@@ -50,3 +50,8 @@ services/*/coverage.out
 
 secrets.yaml
 configmap.yaml
+
+# Roteiro e PDFs de apresentacao
+roteiro_ci_devsecops.py
+roteiro_ci_devsecops.pdf
+POSTECH - Tech Challenge - Fase 3 (1).pdf
